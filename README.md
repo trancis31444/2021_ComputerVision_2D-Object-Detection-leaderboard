@@ -65,7 +65,7 @@
 
 
 <p>본 챌린지의 결과 제출은 MS COCO dataset의 test set의 annotation이 제공되지 않으므로, validation set을 이용합니다.</p>
-<p>제출 형식은 json 파일로 제출가능하며, 아래 형식에 맞춰 제출하시기 바랍니다. <a href="https://cocodataset.org/#format-results">(참조)</a><a href="https://github.com/cocodataset/cocoapi/blob/master/results/instances_val2014_fakebbox100_results.json">(참조2)</a></p>
+<p>제출 형식은 json 파일로 제출가능하며, 아래 형식에 맞춰 제출하시기 바랍니다. <a href="https://cocodataset.org/#format-results">(참조)</a> <a href="https://github.com/cocodataset/cocoapi/blob/master/results/instances_val2014_fakebbox100_results.json">(참조2)</a></p>
 <pre>[{
 "image_id": int, "category_id": int, "bbox": [x,y,width,height], "score": float,
 }]</pre>
