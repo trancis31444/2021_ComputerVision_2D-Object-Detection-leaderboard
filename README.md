@@ -69,3 +69,22 @@
 <pre>[{
 "image_id": int, "category_id": int, "bbox": [x,y,width,height], "score": float,
 }]</pre>
+<p>&nbsp;</p><p>&nbsp;</p>
+
+# 3단계 추천 논문
+<p>추천 논문은 2021 CVPR 2D Object Detection 분야 논문중 코드가 공개되지 않은 논문들로 선정하였습니다.</p>
+<ul>
+<li>Joint-DetNas </li>
+<li>(<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Joint-DetNAS_Upgrade_Your_Detector_With_NAS_Pruning_and_Dynamic_Distillation_CVPR_2021_paper.pdf">링크</a>)</li>
+</ul>
+
+<ul>
+<li>IQDet </li>
+<li>(<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_IQDet_Instance-Wise_Quality_Distribution_Sampling_for_Object_Detection_CVPR_2021_paper.pdf">링크</a>)</li>
+</ul>
+
+<ul>
+<li>RankDetNet </li>
+<li>(<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_RankDetNet_Delving_Into_Ranking_Constraints_for_Object_Detection_CVPR_2021_paper.pdf">링크</a>)</li>
+</ul>
+
