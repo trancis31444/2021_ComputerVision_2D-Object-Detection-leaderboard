@@ -8,7 +8,7 @@
 # Overview
 
 
-<p>본 챌린지는 '2D Object Detection'을 수행하는 챌린지입니다. 2D Object Detection은 2D 영상 내에서 특정 클랙스의 개체 인스턴스를 검색하는 작업입니다. 해당 기술은 크게 One-stage method와 Two-stage method로 분류할 수 있습니다. One-stage method는 추론 속도를 우선시하며, 대표적으로는 YOLO, SSD 및 RetinaNet이 포함됩니다. Two-stage method는 검출 정확도를 우선시하며, 대표적으로는 Faster R-CNN, Mask R-CNN, 그리고 Cascade R-CNN이 있습니다. 본 챌린지에서는 One-stage method로 한정하며, 해당 method의 가장 대표적인 모델중 하나인 YOLO을 베이스라인으로 선정하였습니다.</p>
+<p>본 챌린지는 '2D Object Detection'을 수행하는 챌린지입니다. 2D Object Detection은 2D 영상 내에서 특정 클래스의 개체 인스턴스를 검색하는 작업입니다. 해당 기술은 크게 One-stage method와 Two-stage method로 분류할 수 있습니다. One-stage method는 추론 속도를 우선시하며, 대표적으로는 YOLO, SSD 및 RetinaNet이 포함됩니다. Two-stage method는 검출 정확도를 우선시하며, 대표적으로는 Faster R-CNN, Mask R-CNN, 그리고 Cascade R-CNN이 있습니다. 본 챌린지에서는 One-stage method로 한정하며, 해당 method의 가장 대표적인 모델중 하나인 YOLO을 베이스라인으로 선정하였습니다.</p>
 <ul>
 <li>베이스라인 방법론: YOLOv5</li>
 <li>베이스라인 코드: <a href="https://github.com/ultralytics/yolov5/">https://github.com/ultralytics/yolov5</a></li>
