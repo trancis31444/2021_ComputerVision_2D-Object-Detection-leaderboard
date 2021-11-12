@@ -47,6 +47,14 @@
 <li>Test set의 annotation이 제공되지 않으므로, Validation set을 이용해 평가합니다.</li>
 <li>Train set을 분할하여 검증에 이용하시기 바랍니다.</li>
 </ul>
+
+<p>&nbsp;</p>
+
+<ul>
+<li> 추가: coco 2017 object detection의 yolo 형식으로 변환된 label은 다음 파일을 이용하시기 바랍니다.</li>
+<li> <a href="https://github.com/ultralytics/yolov5/releases/download/v1.0/coco2017labels.zip">링크</a></li>
+</ul>
+
 <p>&nbsp;</p><p>&nbsp;</p>
 
 
